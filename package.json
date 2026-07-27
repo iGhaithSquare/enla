@@ -1,0 +1,17 @@
+{
+  "name": "enla",
+  "displayName": "Export NesLike assembly",
+  "description": "This plugin would add a new export so you can export your indexed sprite to nes like assembly",
+  "version": "0.1.0",
+  "author": { "name": "iGhaithX2",
+              "url": "https://github.com/iGhaithSquare/enla/" },
+  "contributors": [ ],
+  "publisher": "iGhaithX2",
+  "license": "Apache-2.0",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+        { "path": "./enla.lua" }
+    ]
+  }
+}
